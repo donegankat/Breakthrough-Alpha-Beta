@@ -1,0 +1,599 @@
+TBreakthrough Alpha Beta
+v7
+r0
+t406853853.922080
+cCheck dependencies
+cCompileC "build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/main.o" "/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Eval.o" "/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/Eval.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Game.o" "/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/Game.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Move.o" "/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/../tradgames-master 3/breakthrough/game/Move.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Alpha Beta.o" "/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/Alpha Beta.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/build/Debug/Breakthrough Alpha Beta" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000005130AAD200000000000000EE
+t1362143954
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/../tradgames-master 3/breakthrough/game/Move.cpp
+c000000005125C43C0000000000000072
+t1361429564
+s114
+i"Move.h"
+
+N/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/Alpha Beta.cpp
+c00000000511B248900000000000048F8
+t1360733321
+s18680
+i"Alpha Beta.h"
+i"Game.h"
+i<iostream>
+i<algorithm>
+i<vector>
+
+N/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/Alpha Beta.h
+c00000000511B21320000000000000706
+t1360732466
+s1798
+i"Game.h"
+i"Eval.h"
+i<iostream>
+i<algorithm>
+i<vector>
+
+N/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/Eval.cpp
+c00000000511B1A2B000000000000252C
+t1360730667
+s9516
+i"Eval.h"
+i<iostream>
+i<vector>
+
+N/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/Eval.h
+c0000000051186D8900000000000003B7
+t1360555401
+s951
+i<iostream>
+i<vector>
+i<string>
+i"Game.h"
+
+N/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/Game.cpp
+c00000000511B1EBA00000000000053C6
+t1360731834
+s21446
+i"Game.h"
+i<iostream>
+i<ostream>
+i<sstream>
+i"Eval.h"
+
+N/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/Game.h
+c000000005120155D0000000000000A67
+t1361057117
+s2663
+i<ostream>
+i<string>
+i<vector>
+i"Move.h"
+i"Piece.h"
+
+N/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/Move.h
+c0000000051156E4E000000000000011A
+t1360358990
+s282
+i<cstdlib>
+
+N/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/Piece.h
+c0000000051186C0100000000000000DE
+t1360555009
+s222
+
+N/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Alpha Beta.o
+t1361057557
+s298652
+
+N/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Breakthrough Alpha Beta.LinkFileList
+c00000000528FE15D00000000000003B7
+t1385161053
+s951
+
+N/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Eval.o
+t1361057556
+s98024
+
+N/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Game.o
+t1361057556
+s210888
+
+N/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Move.o
+t1362981984
+s5364
+
+N/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/main.o
+t1361057553
+s67376
+
+N/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/build/Debug/Breakthrough Alpha Beta
+t1385161053
+s159272
+
+N/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/main.cpp
+c00000000511B227D0000000000000228
+t1360732797
+s552
+i"Game.h"
+i"Alpha Beta.h"
+i<vector>
+
+N/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/tradgames-master 3/breakthrough/game/Move.h
+c000000005125C43C000000000000011A
+t1361429564
+s282
+i<cstdlib>
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master 3/breakthrough/game/Move.cpp
+c000000005125C43C0000000000000072
+t1361429564
+s114
+i"Move.h"
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master 3/breakthrough/game/Move.h
+c0000000051156E4E000000000000011A
+t1360358990
+s282
+i<cstdlib>
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master 3/breakthrough/game/Piece.h
+c0000000051186C0100000000000000DE
+t1360555009
+s222
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp
+c00000000510A014C00000000000027F0
+t1359610188
+s10224
+i<iostream>
+i<ostream>
+i<sstream>
+i"GameState.h"
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Move.cpp
+c00000000510A014C0000000000000072
+t1359610188
+s114
+i"Move.h"
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Move.h
+c00000000510A014C000000000000011A
+t1359610188
+s282
+i<cstdlib>
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Piece.h
+c00000000510A014C00000000000000D8
+t1359610188
+s216
+i"Players.h"
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Players.h
+c000000005116EAE3000000000000006C
+t1360456419
+s108
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/AB.cpp
+c000000005119AF910000000000002B26
+t1360637841
+s11046
+i"AB.h"
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/AB.h
+c000000005119A5410000000000000096
+t1360635201
+s150
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Alpha Beta.cpp
+c00000000511B248900000000000048F8
+t1360733321
+s18680
+i"Alpha Beta.h"
+i"Game.h"
+i<iostream>
+i<algorithm>
+i<vector>
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Alpha Beta.h
+c00000000511B21320000000000000706
+t1360732466
+s1798
+i"Game.h"
+i"Eval.h"
+i<iostream>
+i<algorithm>
+i<vector>
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Eval.cpp
+c00000000511B1A2B000000000000252C
+t1360730667
+s9516
+i"Eval.h"
+i<iostream>
+i<vector>
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Eval.h
+c0000000051186D8900000000000003B7
+t1360555401
+s951
+i<iostream>
+i<vector>
+i<string>
+i"Game.h"
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Game.cpp
+c00000000511B1EBA00000000000053C6
+t1360731834
+s21446
+i"Game.h"
+i<iostream>
+i<ostream>
+i<sstream>
+i"Eval.h"
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Game.h
+c000000005120155D0000000000000A67
+t1361057117
+s2663
+i<ostream>
+i<string>
+i<vector>
+i"Move.h"
+i"Piece.h"
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Misc.cpp
+c000000005119AF600000000000003770
+t1360637792
+s14192
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Move.h
+c0000000051156E4E000000000000011A
+t1360358990
+s282
+i<cstdlib>
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Piece.h
+c0000000051186C0100000000000000DE
+t1360555009
+s222
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/AB.o
+t1360637841
+s1444
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Alpha Beta.o
+t1361057557
+s298652
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Breakthrough Alpha Beta.LinkFileList
+c000000005119B1D0000000000000035D
+t1360638416
+s861
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Eval.o
+t1361057556
+s98024
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Game.o
+t1361057556
+s210888
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/GameState.o
+t2
+s0
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Misc.o
+t1360637792
+s1448
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Move-82D88BAEACA22B67.o
+t1360456245
+s5364
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Move-AD38EBBA18BD0895.o
+t1360456244
+s5364
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Move.o
+t1362981984
+s5364
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/main.o
+t1361057553
+s67376
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug/Breakthrough Alpha Beta
+t1362981984
+s159184
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/main.cpp
+c00000000511B227D0000000000000228
+t1360732797
+s552
+i"Game.h"
+i"Alpha Beta.h"
+i<vector>
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/tradgames-master 3/breakthrough/game/Move.h
+c000000005125C43C000000000000011A
+t1361429564
+s282
+i<cstdlib>
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/tradgames-master/breakthrough/game/GameState.h
+c00000000510A014C000000000000052E
+t1359610188
+s1326
+i<ostream>
+i<string>
+i<vector>
+i"Move.h"
+i"Piece.h"
+i"Players.h"
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/tradgames-master/breakthrough/game/Move.h
+c00000000510A014C000000000000011A
+t1359610188
+s282
+i<cstdlib>
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/tradgames-master/breakthrough/game/Piece.h
+c00000000510A014C00000000000000D8
+t1359610188
+s216
+i"Players.h"
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/tradgames-master/breakthrough/game/Players.h
+c000000005116EAE3000000000000006C
+t1360456419
+s108
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies406853853#406853853#0(0"0(0#1#0"8617740224#0"0#
+
+CCompileC "build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/AB.o" "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/AB.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s382330642.317276
+e382330642.318670
+r1
+xCompileC
+xbuild/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/AB.o
+x/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/AB.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/AB.cpp382330642#382330642#0(0"0(0#0#76"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/AB.cpp8622200384#1938"    cd "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-generated-files.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-own-target-headers.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-all-target-headers.hmap" -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-project-headers.hmap" "-F/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug/include" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/DerivedSources/x86_64" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/DerivedSources" -c "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/AB.cpp" -o "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/AB.o"0#
+
+CCompileC "build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Alpha Beta.o" "/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/Alpha Beta.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Alpha Beta.o" "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Alpha Beta.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s382750356.539214
+e382750357.367047
+r1
+xCompileC
+xbuild/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Alpha Beta.o
+x/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Alpha Beta.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Alpha Beta.cpp: In function 'void DoMove(BoardState)':
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Alpha Beta.cpp:500: warning: unused variable 'BestValue'
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Alpha Beta.cpp: At global scope:
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Alpha Beta.cpp:28: warning: 'PlyDepth' defined but not used
+lSLF07#2@92"Compile /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Alpha Beta.cpp382750356#382750357#0(485"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Alpha Beta.cpp: In function 'void DoMove(BoardState)':/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Alpha Beta.cpp:500: warning: unused variable 'BestValue'/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Alpha Beta.cpp: At global scope:/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Alpha Beta.cpp:28: warning: 'PlyDepth' defined but not used3(22@27"Unused variable 'BestValue'382750356#125#127#0(6@84"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Alpha Beta.cpp382426121#500#0#500#0#19"unused variable '*'0(23@16"At global scope:382750357#252#103#0(6@84"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Alpha Beta.cpp382426121#0#0#0#0#0"0(22@31"'PlyDepth' defined but not used382750357#355#130#0(6@84"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Alpha Beta.cpp382426121#28#0#28#0#24"'*' defined but not used0(0#0#84"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Alpha Beta.cpp8602877280#1954"    cd "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-generated-files.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-own-target-headers.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-all-target-headers.hmap" -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-project-headers.hmap" "-F/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug/include" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/DerivedSources/x86_64" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/DerivedSources" -c "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Alpha Beta.cpp" -o "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Alpha Beta.o"0#
+
+CCompileC "build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Eval.o" "/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/Eval.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Eval.o" "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Eval.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s382750350.186725
+e382750356.538794
+r1
+xCompileC
+xbuild/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Eval.o
+x/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Eval.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Eval.cpp382750350#382750356#0(0"0(0#0#78"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Eval.cpp8606844352#1942"    cd "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-generated-files.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-own-target-headers.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-all-target-headers.hmap" -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-project-headers.hmap" "-F/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug/include" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/DerivedSources/x86_64" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/DerivedSources" -c "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Eval.cpp" -o "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Eval.o"0#
+
+CCompileC "build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Game.o" "/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/Game.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Game.o" "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Game.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s382750353.765193
+e382750356.540858
+r1
+xCompileC
+xbuild/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Game.o
+x/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Game.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Game.cpp382750353#382750356#0(0"0(0#0#78"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Game.cpp8623951584#1942"    cd "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-generated-files.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-own-target-headers.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-all-target-headers.hmap" -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-project-headers.hmap" "-F/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug/include" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/DerivedSources/x86_64" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/DerivedSources" -c "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Game.cpp" -o "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Game.o"0#
+
+CCompileC "build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/GameState.o" "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s382247574.304732
+e382247574.716570
+r0
+xCompileC
+xbuild/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/GameState.o
+x/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Piece.h:4,
+o                 from /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h:12,
+o                 from /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:10:
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Players.h:7: error: field 'player1' has incomplete type
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Players.h:8: error: field 'player2' has incomplete type
+oIn file included from /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:10:
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h:15: error: expected identifier before 'class'
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h:15: error: ISO C++ forbids declaration of 'closed' with no type
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h:15: error: ISO C++ forbids declaration of 'open' with no type
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h:15: error: ISO C++ forbids declaration of 'player1' with no type
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h:15: error: ISO C++ forbids declaration of 'player2' with no type
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h:15: error: expected ';' before '}' token
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h:15: error: expected `;' before '}' token
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h:15: error: multiple types in one declaration
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp: In function 'std::ostream& operator<<(std::ostream&, GameState&)':
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:40: error: switch quantity not an integer
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h:15: error: 'int Board::open' is private
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:42: error: within this context
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:42: error: 'Board::open' cannot appear in a constant-expression
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h:15: error: 'int Board::closed' is private
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:45: error: within this context
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:45: error: 'Board::closed' cannot appear in a constant-expression
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h:15: error: 'int Board::player1' is private
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:48: error: within this context
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:48: error: 'Board::player1' cannot appear in a constant-expression
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:51: error: 'player2' is not a member of 'Board'
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:59: error: a function-definition is not allowed here before ':' token
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:62: error: expected primary-expression before 'else'
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:62: error: expected `;' before 'else'
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:62: error: expected primary-expression before 'else'
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:62: error: expected `)' before 'else'
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:62: error: expected primary-expression before 'else'
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:62: error: expected `;' before 'else'
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:69: error: 'player1' is not a member of 'Players'
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:71: error: a function-definition is not allowed here before ':' token
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:75: error: expected primary-expression before 'p2moves'
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:75: error: expected `)' before 'p2moves'
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:75: error: 'p2moves' was not declared in this scope
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:75: error: 'player2' is not a member of 'Players'
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:76: error: 'p2moves' was not declared in this scope
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:77: error: a function-definition is not allowed here before ':' token
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:82: error: expected `)' before ';' token
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp: In member function 'std::vector<Move, std::allocator<Move> > GameState::get_moves(Players) const':
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:102: error: a function-definition is not allowed here before ':' token
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:359: error: expected primary-expression at end of input
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:359: error: expected `;' at end of input
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:359: error: expected primary-expression at end of input
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:359: error: expected `)' at end of input
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:359: error: expected statement at end of input
+o/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:359: error: expected `}' at end of input
+lSLF07#2@129"Compile /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp382247574#382247574#0(8537"In file included from /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Piece.h:4,                 from /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h:12,                 from /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:10:/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Players.h:7: error: field 'player1' has incomplete type/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Players.h:8: error: field 'player2' has incomplete typeIn file included from /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:10:/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h:15: error: expected identifier before 'class'/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h:15: error: ISO C++ forbids declaration of 'closed' with no type/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h:15: error: ISO C++ forbids declaration of 'open' with no type/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h:15: error: ISO C++ forbids declaration of 'player1' with no type/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h:15: error: ISO C++ forbids declaration of 'player2' with no type/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h:15: error: expected ';' before '}' token/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h:15: error: expected `;' before '}' token/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h:15: error: multiple types in one declaration/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp: In function 'std::ostream& operator<<(std::ostream&, GameState&)':/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:40: error: switch quantity not an integer/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h:15: error: 'int Board::open' is private/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:42: error: within this context/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:42: error: 'Board::open' cannot appear in a constant-expression/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h:15: error: 'int Board::closed' is private/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:45: error: within this context/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:45: error: 'Board::closed' cannot appear in a constant-expression/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h:15: error: 'int Board::player1' is private/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:48: error: within this context/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:48: error: 'Board::player1' cannot appear in a constant-expression/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:51: error: 'player2' is not a member of 'Board'/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:59: error: a function-definition is not allowed here before ':' token/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:62: error: expected primary-expression before 'else'/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:62: error: expected `;' before 'else'/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:62: error: expected primary-expression before 'else'/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:62: error: expected `)' before 'else'/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:62: error: expected primary-expression before 'else'/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:62: error: expected `;' before 'else'/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:69: error: 'player1' is not a member of 'Players'/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:71: error: a function-definition is not allowed here before ':' token/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:75: error: expected primary-expression before 'p2moves'/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:75: error: expected `)' before 'p2moves'/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:75: error: 'p2moves' was not declared in this scope/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:75: error: 'player2' is not a member of 'Players'/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:76: error: 'p2moves' was not declared in this scope/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:77: error: a function-definition is not allowed here before ':' token/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:82: error: expected `)' before ';' token/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp: In member function 'std::vector<Move, std::allocator<Move> > GameState::get_moves(Players) const':/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:102: error: a function-definition is not allowed here before ':' token/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:359: error: expected primary-expression at end of input/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:359: error: expected `;' at end of input/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:359: error: expected primary-expression at end of input/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:359: error: expected `)' at end of input/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:359: error: expected statement at end of input/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp:359: error: expected `}' at end of input44(4@35"Field 'player1' has incomplete type382247574#435#164#4(7@143"In file included from /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp382247574#18446744073709551615#0#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#10#0#10#0#0"0(7@141"In file included from /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h382247574#18446744073709551615#0#0(6@119"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h381302988#12#0#12#0#0"0(7@137"In file included from /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Piece.h382247574#18446744073709551615#0#0(6@115"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Piece.h381302988#4#0#4#0#0"0(13@156"Field 'player1' has incomplete type in /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Players.h382247574#18446744073709551615#0#0(6@117"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Players.h382149219#7#0#7#0#0"0(6@117"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Players.h382149219#7#0#7#0#29"field '*' has incomplete type0(4@35"Field 'player2' has incomplete type382247574#599#164#4(7@143"In file included from /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp382247574#18446744073709551615#0#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#10#0#10#0#0"0(7@141"In file included from /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h382247574#18446744073709551615#0#0(6@119"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h381302988#12#0#12#0#0"0(7@137"In file included from /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Piece.h382247574#18446744073709551615#0#0(6@115"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Piece.h381302988#4#0#4#0#0"0(13@156"Field 'player2' has incomplete type in /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Players.h382247574#18446744073709551615#0#0(6@117"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Players.h382149219#8#0#8#0#0"0(6@117"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Players.h382149219#8#0#8#0#29"field '*' has incomplete type0(4@34"Expected identifier before 'class'382247574#911#166#2(7@143"In file included from /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp382247574#18446744073709551615#0#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#10#0#10#0#0"0(13@157"Expected identifier before 'class' in /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h382247574#18446744073709551615#0#0(6@119"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h381302988#15#0#15#0#0"0(6@119"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h381302988#15#0#15#0#19"expected * before *0(4@52"ISO C++ forbids declaration of 'closed' with no type382247574#1077#184#2(7@143"In file included from /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp382247574#18446744073709551615#0#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#10#0#10#0#0"0(13@175"ISO C++ forbids declaration of 'closed' with no type in /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h382247574#18446744073709551615#0#0(6@119"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h381302988#15#0#15#0#0"0(6@119"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h381302988#15#0#15#0#47"ISO C++ forbids declaration of '*' with no type0(4@50"ISO C++ forbids declaration of 'open' with no type382247574#1261#182#2(7@143"In file included from /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp382247574#18446744073709551615#0#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#10#0#10#0#0"0(13@173"ISO C++ forbids declaration of 'open' with no type in /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h382247574#18446744073709551615#0#0(6@119"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h381302988#15#0#15#0#0"0(6@119"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h381302988#15#0#15#0#47"ISO C++ forbids declaration of '*' with no type0(4@53"ISO C++ forbids declaration of 'player1' with no type382247574#1443#185#2(7@143"In file included from /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp382247574#18446744073709551615#0#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#10#0#10#0#0"0(13@176"ISO C++ forbids declaration of 'player1' with no type in /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h382247574#18446744073709551615#0#0(6@119"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h381302988#15#0#15#0#0"0(6@119"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h381302988#15#0#15#0#47"ISO C++ forbids declaration of '*' with no type0(4@53"ISO C++ forbids declaration of 'player2' with no type382247574#1628#185#2(7@143"In file included from /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp382247574#18446744073709551615#0#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#10#0#10#0#0"0(13@176"ISO C++ forbids declaration of 'player2' with no type in /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h382247574#18446744073709551615#0#0(6@119"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h381302988#15#0#15#0#0"0(6@119"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h381302988#15#0#15#0#47"ISO C++ forbids declaration of '*' with no type0(4@29"Expected ';' before '}' token382247574#1813#161#2(7@143"In file included from /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp382247574#18446744073709551615#0#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#10#0#10#0#0"0(13@152"Expected ';' before '}' token in /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h382247574#18446744073709551615#0#0(6@119"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h381302988#15#0#15#0#0"0(6@119"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h381302988#15#0#15#0#19"expected * before *0(4@29"Expected `;' before '}' token382247574#1974#161#2(7@143"In file included from /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp382247574#18446744073709551615#0#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#10#0#10#0#0"0(13@152"Expected `;' before '}' token in /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h382247574#18446744073709551615#0#0(6@119"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h381302988#15#0#15#0#0"0(6@119"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h381302988#15#0#15#0#19"expected * before *0(4@33"Multiple types in one declaration382247574#2135#165#2(7@143"In file included from /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp382247574#18446744073709551615#0#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#10#0#10#0#0"0(13@156"Multiple types in one declaration in /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h382247574#18446744073709551615#0#0(6@119"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h381302988#15#0#15#0#0"0(6@119"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h381302988#15#0#15#0#0"0(4@30"Switch quantity not an integer382247574#2490#164#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#40#0#40#0#0"0(4@28"'int Board::open' is private382247574#2654#160#0(6@119"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h381302988#15#0#15#0#0"0(4@19"Within this context382247574#2814#153#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#42#0#42#0#0"0(4@52"'Board::open' cannot appear in a constant-expression382247574#2967#186#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#42#0#42#0#0"0(4@30"'int Board::closed' is private382247574#3153#162#0(6@119"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h381302988#15#0#15#0#0"0(4@19"Within this context382247574#3315#153#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#45#0#45#0#0"0(4@54"'Board::closed' cannot appear in a constant-expression382247574#3468#188#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#45#0#45#0#0"0(4@31"'int Board::player1' is private382247574#3656#163#0(6@119"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.h381302988#15#0#15#0#0"0(4@19"Within this context382247574#3819#153#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#48#0#48#0#0"0(4@55"'Board::player1' cannot appear in a constant-expression382247574#3972#189#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#48#0#48#0#0"0(4@36"'player2' is not a member of 'Board'382247574#4161#170#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#51#0#51#0#0"0(4@58"A function-definition is not allowed here before ':' token382247574#4331#192#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#59#0#59#0#0"0(4@41"Expected primary-expression before 'else'382247574#4523#175#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#62#0#62#0#19"expected * before *0(4@26"Expected `;' before 'else'382247574#4698#160#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#62#0#62#0#19"expected * before *0(4@41"Expected primary-expression before 'else'382247574#4858#175#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#62#0#62#0#19"expected * before *0(4@26"Expected `)' before 'else'382247574#5033#160#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#62#0#62#0#19"expected * before *0(4@41"Expected primary-expression before 'else'382247574#5193#175#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#62#0#62#0#19"expected * before *0(4@26"Expected `;' before 'else'382247574#5368#160#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#62#0#62#0#19"expected * before *0(4@38"'player1' is not a member of 'Players'382247574#5528#172#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#69#0#69#0#0"0(4@58"A function-definition is not allowed here before ':' token382247574#5700#192#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#71#0#71#0#0"0(4@44"Expected primary-expression before 'p2moves'382247574#5892#178#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#75#0#75#0#19"expected * before *0(4@29"Expected `)' before 'p2moves'382247574#6070#163#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#75#0#75#0#19"expected * before *0(4@40"'p2moves' was not declared in this scope382247574#6233#174#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#75#0#75#0#34"'*' was not declared in this scope0(4@38"'player2' is not a member of 'Players'382247574#6407#172#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#75#0#75#0#0"0(4@40"'p2moves' was not declared in this scope382247574#6579#174#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#76#0#76#0#34"'*' was not declared in this scope0(4@58"A function-definition is not allowed here before ':' token382247574#6753#192#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#77#0#77#0#0"0(4@29"Expected `)' before ';' token382247574#6945#163#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#82#0#82#0#19"expected * before *0(4@58"A function-definition is not allowed here before ':' token382247574#7330#193#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#102#0#102#0#0"0(4@43"Expected primary-expression at end of input382247574#7523#178#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#359#0#359#0#0"0(4@28"Expected `;' at end of input382247574#7701#163#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#359#0#359#0#0"0(4@43"Expected primary-expression at end of input382247574#7864#178#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#359#0#359#0#0"0(4@28"Expected `)' at end of input382247574#8042#163#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#359#0#359#0#0"0(4@34"Expected statement at end of input382247574#8205#169#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#359#0#359#0#0"0(4@28"Expected `}' at end of input382247574#8374#163#0(6@121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp381302988#359#0#359#0#0"0(0#0#121"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp8610023264#1990"    cd "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-generated-files.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-own-target-headers.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-all-target-headers.hmap" -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-project-headers.hmap" "-F/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug/include" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/DerivedSources/x86_64" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/DerivedSources" -c "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/GameState.cpp" -o "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/GameState.o"1#
+
+CCompileC "build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Misc.o" "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Misc.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s382330605.989511
+e382330606.214128
+r1
+xCompileC
+xbuild/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Misc.o
+x/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Misc.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Misc.cpp382330606#382330606#0(0"0(0#0#78"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Misc.cpp8597006080#1942"    cd "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-generated-files.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-own-target-headers.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-all-target-headers.hmap" -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-project-headers.hmap" "-F/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug/include" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/DerivedSources/x86_64" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/DerivedSources" -c "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/Misc.cpp" -o "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Misc.o"0#
+
+CCompileC "build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Move-82D88BAEACA22B67.o" "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master 3/breakthrough/game/Move.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s382149045.180593
+e382149045.268207
+r1
+xCompileC
+xbuild/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Move-82D88BAEACA22B67.o
+x/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master 3/breakthrough/game/Move.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@126"Compile /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master 3/breakthrough/game/Move.cpp382149045#382149045#0(0"0(0#0#118"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master 3/breakthrough/game/Move.cpp8599775136#1999"    cd "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-generated-files.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-own-target-headers.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-all-target-headers.hmap" -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-project-headers.hmap" "-F/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug/include" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/DerivedSources/x86_64" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/DerivedSources" -c "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master 3/breakthrough/game/Move.cpp" -o "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Move-82D88BAEACA22B67.o"0#
+
+CCompileC "build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Move-AD38EBBA18BD0895.o" "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Move.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s382149044.590313
+e382149044.680761
+r1
+xCompileC
+xbuild/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Move-AD38EBBA18BD0895.o
+x/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Move.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@124"Compile /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Move.cpp382149044#382149044#0(0"0(0#0#116"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Move.cpp8619455552#1997"    cd "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-generated-files.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-own-target-headers.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-all-target-headers.hmap" -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-project-headers.hmap" "-F/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug/include" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/DerivedSources/x86_64" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/DerivedSources" -c "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Move.cpp" -o "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Move-AD38EBBA18BD0895.o"0#
+
+CCompileC "build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Move.o" "/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/../tradgames-master 3/breakthrough/game/Move.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Move.o" "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master 3/breakthrough/game/Move.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s384674784.274805
+e384674784.369007
+r1
+xCompileC
+xbuild/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Move.o
+x/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master 3/breakthrough/game/Move.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@126"Compile /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master 3/breakthrough/game/Move.cpp384674784#384674784#0(0"0(0#0#118"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master 3/breakthrough/game/Move.cpp8618133440#1982"    cd "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-generated-files.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-own-target-headers.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-all-target-headers.hmap" -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-project-headers.hmap" "-F/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug/include" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/DerivedSources/x86_64" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/DerivedSources" -c "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master 3/breakthrough/game/Move.cpp" -o "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Move.o"0#
+
+CCompileC "build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Move.o" "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Move.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s382059912.507151
+e382059912.635994
+r1
+xCompileC
+xbuild/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Move.o
+x/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Move.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@124"Compile /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Move.cpp382059912#382059912#0(0"0(0#0#116"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Move.cpp8599888256#1980"    cd "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-generated-files.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-own-target-headers.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-all-target-headers.hmap" -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-project-headers.hmap" "-F/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug/include" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/DerivedSources/x86_64" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/DerivedSources" -c "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/../tradgames-master/breakthrough/game/Move.cpp" -o "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Move.o"0#
+
+CCompileC "build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/main.o" "/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/main.o" "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s382750350.185773
+e382750353.764989
+r1
+xCompileC
+xbuild/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/main.o
+x/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/main.cpp382750350#382750353#0(0"0(0#0#78"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/main.cpp8617644960#1942"    cd "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-generated-files.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-own-target-headers.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-all-target-headers.hmap" -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Breakthrough Alpha Beta-project-headers.hmap" "-F/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug/include" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/DerivedSources/x86_64" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/DerivedSources" -c "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/main.cpp" -o "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/build/Debug/Breakthrough Alpha Beta" normal x86_64
+s406853853.835669
+e406853853.922027
+r1
+xLd
+x/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/build/Debug/Breakthrough Alpha Beta
+xnormal
+xx86_64
+lSLF07#2@128"Link /Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/build/Debug/Breakthrough Alpha Beta406853853#406853853#0(0"0(0#0#0"8613685856#817"    cd "/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/build/Debug" "-F/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/build/Debug" -filelist "/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Breakthrough Alpha Beta.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Kat/Documents/School/2012-2013/02 Winter Quarter/Game AI/Breakthrough Alpha Beta/build/Debug/Breakthrough Alpha Beta"0#
+
+CLd "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug/Breakthrough Alpha Beta" normal x86_64
+s384674784.369094
+e384674784.529479
+r1
+xLd
+x/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug/Breakthrough Alpha Beta
+xnormal
+xx86_64
+lSLF07#2@110"Link /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug/Breakthrough Alpha Beta384674784#384674784#0(0"0(0#0#0"8616137568#727"    cd "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug" "-F/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug" -filelist "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Breakthrough Alpha Beta.build/Debug/Breakthrough Alpha Beta.build/Objects-normal/x86_64/Breakthrough Alpha Beta.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough Alpha Beta/build/Debug/Breakthrough Alpha Beta"0#
+
